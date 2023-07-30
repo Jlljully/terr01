@@ -23,8 +23,9 @@
 # own secret vars store.
 personal.auto.tfvars
 ```
-3. 
-
+3. ![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled1.png "клоне")
+4. 
+5. 
 ------
 
 ## Дополнительные задания (со звездочкой*)
