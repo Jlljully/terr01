@@ -28,21 +28,30 @@ personal.auto.tfvars
 ![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled1.png "пасс")
 
 4. Ошибки были допущены в описании ресурса (должно быть указано имя и тип), опечатка в "1nginx" - единицу убрала, большая Т в resulT и _FAKE
+   
 ![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled2.png "ошибки")
 
 ![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled3.png "ошибки")  
 
 5. Запущен
-   ![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled4.png "контейнер")
+   
+![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled4.png "контейнер")
 
 6. При автоапруве можно случайно задестроить прод и уволиться. Поэтому всегда стоит делать сначала план, проверять что будет создано\удалено, а потом уже заускать аплай
    
-   ![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled5.png "контейнер2")
+![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled5.png "контейнер2")
 
-   7. удалено
-      ![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled6.png "контейнер2")
+7. удалено
+   
+![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled6.png "дестрой")
 
-      8. 
+![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled7.png "дестрой")
+   
+8. Потому что у нас был задан keep_localy = true
+
+![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled8.png "локал")
+   
+    
    
 ------
 
@@ -60,3 +69,5 @@ shekeriev.
 ### Ответ
 1. ,
 2. 
+
+  
