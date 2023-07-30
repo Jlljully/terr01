@@ -24,9 +24,15 @@
 # own secret vars store.
 personal.auto.tfvars
 ```
-3. ![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled1.png "клоне")
-4. 
-5. 
+3.
+![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled1.png "пасс")
+
+4. Ошибки были допущены в описании ресурса (должно быть указано имя и тип), опечатка в "1nginx" - единицу убрала, большая Т в resulT и _FAKE
+![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled2.png "ошибки")
+
+![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled3.png "пасс")  
+
+6. 
 ------
 
 ## Дополнительные задания (со звездочкой*)
