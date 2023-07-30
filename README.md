@@ -23,7 +23,7 @@
 # own secret vars store.
 personal.auto.tfvars
 ```
-2. 
+3. 
 
 ------
 
