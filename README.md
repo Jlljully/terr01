@@ -18,6 +18,7 @@
 ### Ответ
 1. 
 ![Скрин](https://github.com/Jlljully/terr01/blob/main/Untitled.png "клоне")
+
 2. В
 ```
 # own secret vars store.
